@@ -22,3 +22,6 @@
 # git branch Dev1 (Le doy un nombre al branch - en este caso le puse Dev1) // Para crear branches en el repositorio desde el commit en que este posicionado - los branches son como bracitos de una misma linea
 # git checkout Dev1 (git checkout main) // para moverme entre el main y los branches
 # git checkout -B Dev2 // Este comando crea y me mueve al branch que cree
+# para juntar todo lo que hice en los branch creo un *Pull requests* en el Github
+
+# git merge main Dev2 // para empujar lo que tengo en el main a un brach - generalmente se hace cuando hay un conflicto por que github encuentra codigo en las mismas lineas de codigo y no sabe que sobreescribir
