@@ -16,3 +16,8 @@
 # git status // saber el estado en que esta mi carpeta con el repositorio que clone
 # git commit -am "Mensaje" // Guardar localmente los cambios que hice
 # git push origin main // empujar el cambio a la linea que necesito (en este caso se envio a la linea *main* porque asi se lo ordene)
+# git fetch // Actualizar los cambios en la metadata - Luego de este debo usar el comando de halar
+# git pull origin main // halar cambios del repositorio en Github
+
+# git branch Dev1 (Le doy un nombre al branch - en este caso le puse Dev1) // Para crear branches en el repositorio desde el commit en que este posicionado - los branches son como bracitos de una misma linea
+# git checkout Dev1 (git checkout main) // para moverme entre el main y los branches
