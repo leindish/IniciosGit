@@ -20,4 +20,4 @@
 # git pull origin main // halar cambios del repositorio en Github
 
 # git branch Dev1 (Le doy un nombre al branch - en este caso le puse Dev1) // Para crear branches en el repositorio desde el commit en que este posicionado - los branches son como bracitos de una misma linea
-# git checkout Dev1 // para moverme al branch que cree
+# git checkout Dev1 (git checkout main) // para moverme entre el main y los branches
