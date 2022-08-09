@@ -1,7 +1,7 @@
 
 # Comandos para manejar Git
 
-# ls 
+# ls // mirar carpetas que tenga
 # git --help // para encontrar comandos de git
 # git config --list --show-origin // para ver la configuracion de mi git
 # git config --global user.name "Leindish" // para ponerle nombre a mi git
