@@ -25,3 +25,5 @@
 # para juntar todo lo que hice en los branch creo un *Pull requests* en el Github
 
 # git merge main Dev2 // para empujar lo que tengo en el main a un brach - generalmente se hace cuando hay un conflicto por que github encuentra codigo en las mismas lineas de codigo y no sabe que sobreescribir
+
+# git reset --hard // Resetea el codigo al ultimo commit que tenga guardado
