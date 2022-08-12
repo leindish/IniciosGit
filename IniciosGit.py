@@ -32,3 +32,5 @@
 # git log // muestra el historial de los commit que haya hecho dependiendo del archivo en el que este posicionado
 # git log --oneline // Es lo mismo que la anterior linea pero esta es de manera mas reducida
 # git log --oneline --graph // Lo mismo pero mejor organizado visualmente
+    # Puedo usar un git log oneline y copiar el codigo de algun commit anterior que haya hecho para regresarme a el haciendo un git checkout
+    # git checkout CODIGO_COMMIT Ej: (97a5d98)
