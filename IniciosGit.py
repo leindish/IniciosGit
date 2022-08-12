@@ -27,3 +27,8 @@
 # git merge main Dev2 // para empujar lo que tengo en el main a un brach - generalmente se hace cuando hay un conflicto por que github encuentra codigo en las mismas lineas de codigo y no sabe que sobreescribir
 
 # git reset --hard // Resetea el codigo al ultimo commit que tenga guardado
+# git checkout HEAD -- IniciosGit // Esto permite resetear uno de los archivos que alla editado pero no todo como el comando anterior. Es importante especificar cual es el archivo que necesitas resetear, en este caso solo estamos trabajando en IniciosGit.
+
+# git log // muestra el historial de los commit que haya hecho dependiendo del archivo en el que este posicionado
+# git log --oneline // Es lo mismo que la anterior linea pero esta es de manera mas reducida
+# git log --oneline --graph // Lo mismo pero mejor organizado visualmente
