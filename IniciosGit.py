@@ -34,3 +34,7 @@
 # git log --oneline --graph // Lo mismo pero mejor organizado visualmente
     # Puedo usar un git log oneline y copiar el codigo de algun commit anterior que haya hecho para regresarme a el haciendo un git checkout
     # git checkout CODIGO_COMMIT Ej: (97a5d98)
+
+# se hacen RELEASE en github para liberar el codigo, como decir ya termine hago un release
+
+# Se hacen Issue en github para dar a conocer error o problemas existentes en el codigo o en la funcionalidad del software como tal
